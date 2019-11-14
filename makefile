@@ -1,4 +1,4 @@
-rk4.png: rk4.dat rk4.py
+rk4.png: rk4.dat analitica.dat rk4.py
 	python rk4.py
 
 %.dat : a.out
